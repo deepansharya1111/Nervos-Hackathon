@@ -27,13 +27,13 @@ This repository contains my sollutions to 2021 nervos hackathon.
     - **Solution:** [Task-Gitcoin6](Task-Gitcoin6/README.md)
  - #### Gitcoin 7
     - **Challenge:** [Port an Existing Ethereum dApp to Polyjuice](https://gitcoin.co/issue/nervosnetwork/grants/8/100026214)
-    - **Solution:** [Port Ethereum dApp to Polyjuice](#)
+    - **Solution:** [task-Port Ethereum dApp to Polyjuice](#)
  - #### Gitcoin 8
     - **Challenge:** [Modify the Ported dApp so it Supports Ethereum Assets via Force Bridge](https://gitcoin.co/issue/nervosnetwork/grants/9/100026215)
-    - **Solution:** [Support Ethereum Assets via Force Bridge](#)
+    - **Solution:** [Task-Support Ethereum Assets via Force Bridge](#)
  - #### Gitcoin 9
     - **Challenge:** [Initiate a Withdrawal From Layer 2 Back to Layer 1](https://gitcoin.co/issue/nervosnetwork/grants/10/100026216)
     - **Solution:** [Task-Gitcoin9](Task-Gitcoin9/README.md)
  - #### Gitcoin 10
     - **Challenge:** [Complete Withdrawal Process by Unlocking the Funds](https://gitcoin.co/issue/nervosnetwork/grants/11/100026217)
-    - **Solution:** [Unlock the Funds](#)
+    - **Solution:** [Task-Unlock the Funds](#)
