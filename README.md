@@ -4,6 +4,8 @@
 This repository contains my sollutions to 2021 nervos hackathon.
 <br>
 ([Hackathon instructions](https://github.com/Kuzirashi/gw-gitcoin-instruction))
+<br>
+[Tasks Homepage](https://gitcoin.co/hackathon/nervos?)
 
 ### Challenges and my sollutions
  - #### Gitcoin 0
