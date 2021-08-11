@@ -2,8 +2,10 @@
 ## Broaden the Spectrum
 
 This repository contains my sollutions to 2021 nervos hackathon.
+<br>
+([Hackathon instructions](https://github.com/Kuzirashi/gw-gitcoin-instruction))
 
-### Challenges
+### Challenges and my sollutions
  - #### Gitcoin 0
     - **Challenge:** [Setup a Local CKB Node and CKB Indexer for the Testnet](https://gitcoin.co/issue/nervosnetwork/grants/1/100026176)
     - **Solution:** [Task-Gitcoin0](Task-Gitcoin0/README.md)
