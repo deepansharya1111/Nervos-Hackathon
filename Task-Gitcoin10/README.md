@@ -3,7 +3,13 @@
 
 #### 1. A screenshot of the console output immediately after running the "unlock" command.
 
-![Unlocked Funds](Unlocked_funds.png?raw=true "Unlocked Funds")
+![Unlocked Funds](Unlocked_funds_1.png?raw=true "Unlocked Funds_1")
+![Unlocked Funds](Unlocked_funds_2.png?raw=true "Unlocked Funds_2")
+![Unlocked Funds](Unlocked_funds_3.png?raw=true "Unlocked Funds_3")
+![Unlocked Funds](Unlocked_funds_4.png?raw=true "Unlocked Funds_4")
+![Unlocked Funds](Unlocked_funds_5.png?raw=true "Unlocked Funds_5")
+![Unlocked Funds](Unlocked_funds_6.png?raw=true "Unlocked Funds_6")
+![Unlocked Funds](Unlocked_funds_7.png?raw=true "Unlocked Funds_7")
 
 #### 2. The Ethereum address that you've used for your Layer 2 account (in text format).
 
