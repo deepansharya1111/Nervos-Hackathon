@@ -2,7 +2,7 @@
 
 #### 1. A screenshot of the console output immediately after running the withdraw command.
 
-![Withdrawal to Layer 1](Withdrawal_Layer_1.png?raw=true "Withdrawal to Layer 1")
+![Withdrawal to Layer 1](Withdraw_Layer_1.png?raw=true "Withdrawal to Layer 1")
 
 #### 2. The Ethereum address that you've used for your Layer 2 account (in text format).
 
